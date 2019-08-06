@@ -29,7 +29,7 @@
 
 * 视频演示
 
-  <video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+  <video id="video" controls="" preload="none" poster="https://github.com/XINWUYA/Projections/blob/master/Multi-LayeredPBRMaterial/MultiLayeredPBRMaterial.png?raw=true">
         <source id="mp4" src="Multi-LayeredPBRMaterial/MultiLayeredPBRMaterial.mp4" type="video/mp4">
-        </video>
+  </video>
 
