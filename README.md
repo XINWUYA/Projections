@@ -20,3 +20,16 @@
 <video id="video" controls="" preload="none">
 	<source id="mp4" src="PanoramaVideoPlayer/MultiProjector.mp4" type="video/mp4">
 </video>-->
+## 3.高级多层PBR材质效果预研
+* 简介：目前游戏中仍然是使用PBR技术居多，而生活中很多材质往往很难用简单的单层物理材质来表现，如木桌或者汽车上的清漆层。高级多层PBR材质就是将这种多层的效果表现出来。
+
+* 效果如下：
+
+  ![](Multi-LayeredPBRMaterial/MultiLayeredPBRMaterial.png)
+
+* 视频演示
+
+  <video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+        <source id="mp4" src="Multi-LayeredPBRMaterial/MultiLayeredPBRMaterial.mp4" type="video/mp4">
+        </video>
+
